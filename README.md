@@ -49,4 +49,3 @@ If you’re using Anaconda:
 ```bash
 conda install -c conda-forge opencv
 ```
-# OpenCV_Class
