@@ -1,4 +1,4 @@
-# OpenCV-Masterclass: Stunning Functions and Applications
+# OpenCV-Class: Stunning Functions and Applications
 
 This repository is a comprehensive collection of OpenCV-based functions, tutorials, and projects designed to unlock the power of computer vision. From basic operations to advanced tasks like object detection, face recognition, and augmented reality, this repository is perfect for both beginners and experienced developers.
 
